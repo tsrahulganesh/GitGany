@@ -1,2 +1,2 @@
 # GitGany
-GitGany
+GitGany Git Gany
